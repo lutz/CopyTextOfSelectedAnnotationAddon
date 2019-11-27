@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyTextOfSelectedAnnotation", "CopyTextOfSelectedAnnotation\CopyTextOfSelectedAnnotation.csproj", "{946ACAB0-23BA-4D8E-9AD3-FA1C01754525}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyTextOfSelectedAnnotationAddon", "CopyTextOfSelectedAnnotationAddon\CopyTextOfSelectedAnnotation.csproj", "{946ACAB0-23BA-4D8E-9AD3-FA1C01754525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
