@@ -1,0 +1,7 @@
+organization=lutz
+projectKey=lutz_CopyTextOfSelectedAnnotationAddon
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8111
+dashboardUrl=https://sonarcloud.io/dashboard?id=lutz_CopyTextOfSelectedAnnotationAddon
+ceTaskId=AXIsFze6Gczp6-GlkkpF
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXIsFze6Gczp6-GlkkpF
